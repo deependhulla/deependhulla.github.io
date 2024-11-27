@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Deepen Dhulla - Driving Scalable Tech Solutions",
+    "description": "",
+    "home_page_url": "https://deependhulla.com",
+    "feed_url": "https://deependhulla.com/feed.json",
+    "user_comment": "",
+    "icon": "https://deependhulla.com/media/website/DeepenDhulla-Oct-2024-20k.jpeg",
+    "author": {
+        "name": "Deepen Dhulla"
+    },
+    "items": [
+    ]
+}

@@ -2,12 +2,12 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "23f3bd97890cb0913a02fe9f081ff938"
+        "md5": "50f510145a06eea15be75b44e85cf078"
     },
     {
         "path": "advisory-services.html",
         "type": "file",
-        "md5": "9f9fab36243042d0f7c89a2b48bb8d9b"
+        "md5": "29092153744fa4f4a2cffff88d634daf"
     },
     {
         "path": "assets",
@@ -30,14 +30,9 @@
         "md5": "45df07ca245fc0e25f9938f995dfd0ee"
     },
     {
-        "path": "/assets/css/photoswipe.css",
-        "type": "file",
-        "md5": "366561c4c503c68e3af3389ac4d7fb8e"
-    },
-    {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "e5ad27e7b330f5e7f7fa9bfb74e8fca4"
+        "md5": "94220f119044674b7663d7c550454968"
     },
     {
         "path": "assets/dynamic",
@@ -48,16 +43,6 @@
         "path": "assets/js",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "/assets/js/photoswipe-ui-default.min.js",
-        "type": "file",
-        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
-    },
-    {
-        "path": "/assets/js/photoswipe.min.js",
-        "type": "file",
-        "md5": "017385b552f7e0d979e2e2fe6f324015"
     },
     {
         "path": "/assets/js/scripts.js",
@@ -85,16 +70,6 @@
         "md5": false
     },
     {
-        "path": "/assets/svg/gallery-icons-dark.svg",
-        "type": "file",
-        "md5": "0c70735af58190b563b2940b7a07007a"
-    },
-    {
-        "path": "/assets/svg/gallery-icons-light.svg",
-        "type": "file",
-        "md5": "0bb1f41e2e459d23628833c37d8532f0"
-    },
-    {
         "path": "/assets/svg/svg-map.svg",
         "type": "file",
         "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
@@ -112,12 +87,17 @@
     {
         "path": "/authors/deepen-dhulla/index.html",
         "type": "file",
-        "md5": "eb43c88685baf3fbe3ada48ec4852f9d"
+        "md5": "b566ea5cb74c3c73a4a5432693eceadb"
     },
     {
         "path": "be-my-next-client.html",
         "type": "file",
-        "md5": "296d37c413c80cff0b059d76997f759c"
+        "md5": "098c74c639b05267a498ff469a939c25"
+    },
+    {
+        "path": "books.html",
+        "type": "file",
+        "md5": "f061e15cbfa58b5f01e0d9ea6ffa5dd4"
     },
     {
         "path": "feed.json",
@@ -132,22 +112,22 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "3f7d0e32f4cd6815154205e3a394b095"
+        "md5": "54a465bccee8cffb74e54529dbbd1098"
     },
     {
         "path": "innovative-solutions.html",
         "type": "file",
-        "md5": "d2e340bef53d961de723bf409ef59216"
+        "md5": "406eca3b8a2c0b0da8a0bb48b3d7178d"
     },
     {
         "path": "insights-and-articles.html",
         "type": "file",
-        "md5": "bd4fba58eea60fb03274b8ca57013afe"
+        "md5": "faa05d2c499aa0ef3df90b5c6909bef2"
     },
     {
         "path": "legacy-and-achievements.html",
         "type": "file",
-        "md5": "01236694c76f7de66a5a8a1da011e9fe"
+        "md5": "e77e38593934762e8816ba451a8fa0d2"
     },
     {
         "path": "media",
@@ -205,6 +185,51 @@
         "md5": "725868514988516bb100195fb10beabc"
     },
     {
+        "path": "media/posts/13",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/First-Edition-cover.jpg",
+        "type": "file",
+        "md5": "db7e1b7debd8be4e70106369a8947533"
+    },
+    {
+        "path": "media/posts/13/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/responsive/First-Edition-cover-2xl.jpg",
+        "type": "file",
+        "md5": "1d582a447e4f45d42abb6c4934d4a3f2"
+    },
+    {
+        "path": "/media/posts/13/responsive/First-Edition-cover-lg.jpg",
+        "type": "file",
+        "md5": "58af44f530b7e23e37536c23a7cd0c3f"
+    },
+    {
+        "path": "/media/posts/13/responsive/First-Edition-cover-md.jpg",
+        "type": "file",
+        "md5": "9670e4ab3a7388226cdd21a080c31837"
+    },
+    {
+        "path": "/media/posts/13/responsive/First-Edition-cover-sm.jpg",
+        "type": "file",
+        "md5": "453e58b66fe1ff01e1f2085d2af26266"
+    },
+    {
+        "path": "/media/posts/13/responsive/First-Edition-cover-xl.jpg",
+        "type": "file",
+        "md5": "1d582a447e4f45d42abb6c4934d4a3f2"
+    },
+    {
+        "path": "/media/posts/13/responsive/First-Edition-cover-xs.jpg",
+        "type": "file",
+        "md5": "7c50f1d7577b70171a076ac9c180ad6b"
+    },
+    {
         "path": "media/website",
         "type": "directory",
         "md5": false
@@ -257,7 +282,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "6f8c48ec2edee5149d44407f0afc1ecf"
+        "md5": "507b11d36c03b604a285dd3d0c002c39"
     },
     {
         "path": "sitemap.xsl",
@@ -272,6 +297,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "e44f8046d3b87d6e9df9f0029afa2860"
+        "md5": "6e8bf06c310219e78bf6e0519a075fda"
     }
 ]
